@@ -1,0 +1,7 @@
+﻿  GameState.cpp
+C:\Users\rodio\source\repos\Nim game\Nim game\GameState.cpp(10,62): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  Nim game.vcxproj -> C:\Users\rodio\source\repos\Nim game\x64\Debug\Nim game.exe
